@@ -1,3 +1,5 @@
+// collaborator: Sophia K
+
 const wordSearch = (letters, word) => {
     // tranpose the letter matrix
     // add rows of the tranposed to original matrix
